@@ -1,13 +1,13 @@
 // Basic const, let and printing to console
 // console.log("Hello World");
 
-// const nama = "Alifio Eren Atmaja";
-// let umur = 30
-// console.log(nama);
-// console.log(umur);
+const nama = "Alifio Eren Atmaja";
+let umur = 30
+console.log(nama);
+console.log(umur);
 
-// umur = 55
-// console.log(umur);
+umur = 55
+console.log(umur);
 
 
 // Basic if - else
