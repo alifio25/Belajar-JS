@@ -10,3 +10,12 @@ console.log(seorang_pelajar)
 console.log(seorang_pekerja)
 console.log(bisa_naik_sepeda)
 console.log(punya_peliharaan)
+
+// Challenge 7 : menggunakan kata kerja dalam bahasa inggris
+const areyoutall = true;
+const cancooking = false;
+const havesisters = true;
+
+console.log(areyoutall)
+console.log(cancooking)
+console.log(havesisters)
