@@ -11,16 +11,16 @@ console.log(umur);
 
 
 // Basic if - else
-// const password_fesnuk ="herman777";
-// let user_input = "bengkulu777";
+const password_fesnuk ="herman777";
+let user_input = "bengkulu777";
 
-// if (user_input === password_fesnuk) {
-//     console.log("Selamat datang admin suki");
+if (user_input === password_fesnuk) {
+    console.log("Selamat datang admin suki");
 
-// } else {
-//     console.log("password salah, coba menyelam lagi")
+} else {
+    console.log("password salah, coba menyelam lagi")
 
-// }
+}
 
 let nilai_UAS = 73; // use a single numeric score (or parse a specific value from a string)
 
